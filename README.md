@@ -7,7 +7,7 @@
   - 👩‍💻 Profile: [https://www.sasha-goebbels.de](https://www.sasha-goebbels.de)
   - 🎤 Slide decks: [https://slides.sasha-goebbels.de/](https://slides.sasha-goebbels.de/)
   - <img src="Codeberg.svg" alt="Codeberg" width="14pt"> Codeberg (all my personal repos): [https://codeberg.org/sashag](https://codeberg.org/sashag)
-  - <img src="linkedin.svg" alt="LinkedIn" width="14pt"> LinkedIn: [https://www.linkedin.com/in/sgoebbels/](https://www.linkedin.com/in/sgoebbels/)
+  - <img src="linkedin.svg" alt="LinkedIn" width="16pt"> LinkedIn: [https://www.linkedin.com/in/sgoebbels/](https://www.linkedin.com/in/sgoebbels/)
   - 🏳️‍🌈 Queer Management blog: [https://www.queer-management.tech/](https://www.queer-management.tech/)
   - 🏳️‍⚧️ Transition blog: [https://www.lost-in-transition.lgbt/](https://www.lost-in-transition.lgbt/)
   - <img src="mastodon-brands-solid-full.svg" alt="Mastodon" width="14pt"> Mastodon: [https://anarres.family/@sashag](https://anarres.family/@sashag)
