@@ -12,6 +12,7 @@
   - 🏳️‍⚧️ Transition blog: [https://www.lost-in-transition.lgbt/](https://www.lost-in-transition.lgbt/)
   - <img src="mastodon-brands-solid-full.svg" alt="Mastodon" width="14pt"> Mastodon: [https://anarres.family/@sashag](https://anarres.family/@sashag)
   - <img src="Discord-Symbol-White.svg" alt="Discord" width="14pt"> Discord: sashasummers
+  - <img src="Instagram.svg" alt="Instagram" width="14pt"> Instagram: [https://www.instagram.com/sashagoebbels/](https://www.instagram.com/sashagoebbels/)
   - 👩‍🎓 ORCID: [https://orcid.org/0009-0005-3367-4903](https://orcid.org/0009-0005-3367-4903)
   - 👩‍🏫 Memberships: [ACM - Association for Computing Machinery](https://www.acm.org/), [GI - Gesellschaft für Informatik](https://gi.de/)
 
